@@ -3,6 +3,8 @@
 This repository captures my **end-to-end hands-on implementation** of Terraform on AWS, focusing on the AWS Provider, authentication workflow, resource provisioning, version management, and infrastructure automation.
 All configurations, experiments, and debugging steps were implemented and validated by me as part of strengthening my DevOps and Infrastructure-as-Code skillset.
 
+![Alt text](image-url)
+
 ---
 
 # 1. Overview
@@ -89,6 +91,7 @@ provider "aws" {
   region = var.aws_region
 }
 ```
+![Alt text](image-url)
 
 This ensures:
 
@@ -196,6 +199,8 @@ This flow describes how Terraform communicates with AWS APIs through the provide
 ---
 
 # 9. Outputs & Validation
+
+![Alt text](image-url)
 
 I defined Terraform outputs to easily verify bucket details:
 
