@@ -5,24 +5,6 @@ All configurations, experiments, and debugging steps were implemented and valida
 
 ---
 
-## Table of Contents
-
-1. Overview
-2. What I Implemented
-3. Prerequisites
-4. Project Structure
-5. AWS Provider Configuration
-6. Step-by-Step Implementation
-7. Terraform Commands Used
-8. Architecture Diagram (Conceptual)
-9. Outputs & Validation
-10. Common Issues I Faced & Fixes
-11. Key Learnings
-12. Future Enhancements
-13. References
-
----
-
 # 1. Overview
 
 Terraform is a declarative IaC (Infrastructure as Code) tool used to automate cloud provisioning.
