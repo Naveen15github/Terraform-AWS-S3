@@ -3,7 +3,7 @@
 This repository captures my **end-to-end hands-on implementation** of Terraform on AWS, focusing on the AWS Provider, authentication workflow, resource provisioning, version management, and infrastructure automation.
 All configurations, experiments, and debugging steps were implemented and validated by me as part of strengthening my DevOps and Infrastructure-as-Code skillset.
 
-![Alt text](https://github.com/Naveen15github/Terraform-AWS-S3/blob/5c96699322ac97a786305ba6a2dbacfa94c2aa9c/Gemini_Generated_Image_pw78gmpw78gmpw78.png)
+![Alt text](https://github.com/Naveen15github/Terraform-AWS-S3/blob/11a9435e07970678a346c94aaf9e62137420186d/Gemini_Generated_Image_8p1ra48p1ra48p1r.png)
 
 ---
 
